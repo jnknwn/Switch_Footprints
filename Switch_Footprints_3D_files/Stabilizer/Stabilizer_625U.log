@@ -1,0 +1,31 @@
+Solid Edge in STEP konvertieren
+Datum: Mittwoch,Januar 11,2023 12:14
+Ausgabedatei: C:\Users\jnsle\Documents\Tastatur\Bibliotheken\Switch_Footprints\Switch_Footprints_3D_files\Stabilizer\Stabilizer_625U.stp
+Autor: Unknown
+Organisation: Unknown
+Ausgangssystem: Solid Edge
+
+Hardware:
+Prozessor: 12th Gen Intel(R) Core(TM) i7-12700K
+Betriebssystem: Windows 10 Professional
+Installierter Speicher: 31.77 GB
+
+Software-Informationen
+Parasolid-Version: 34.0.153
+PSBodyShop-Version: 34.0.110
+Step-Adapterversion: 9.0.92
+Solid Edge-Version: 222.00.00.132 x64
+
+STEP-Exportoptionen
+Exportformat: AP214
+Konstruktionsbleche exportieren: Aus
+Konstruktionsvolumen exportieren: Aus
+Konstruktionsdrähte exportieren: Aus
+Nur angezeigte Teile exportieren: Aus
+Einheiten: Millimeters
+Namen von Teilkomponenten exportieren als Unicode: Aus
+PMI exportieren: Aus
+
+Phase 1 von 1 - Parasolid in Fremddatentypen konvertieren...
+Konvertierungsvorgang ist abgeschlossen
+Zum Übersetzen benötigte Zeit:00 : 00 : 00

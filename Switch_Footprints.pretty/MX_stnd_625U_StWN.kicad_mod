@@ -118,4 +118,14 @@
       44c9c2f9-0c60-497c-b6ff-75f4d0688422
     )
   )
+  (model "${KICAD6_3DMODEL_DIR}/Switch_Footprints_3D_files/Cherry_MX/MX .stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Switch_Footprints_3D_files/Stabilizer/Stabilizer_625U.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
 )
