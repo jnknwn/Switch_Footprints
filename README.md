@@ -6,6 +6,6 @@ If you want to have 3D files in your footprints copy the folder "Switch_Footprin
 On Windows it's usually "C:\Program Files\KiCad\6.0\share\kicad\3dmodels"
 
 Types of footprints (MX):
-- stnd: footprints with full silkscreen, like positioning guidance and size of keycap
-- lss: less silkscreen then stnd, only reference
-- noref: only col and row indicated on silkscreen, nor reference visible
+- stnd:  footprints with full silkscreen, like positioning guidance and size of keycap
+- lss:   less silkscreen then stnd, only reference
+- noref: only col and row indicated on silkscreen, no reference visible
